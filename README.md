@@ -3,39 +3,24 @@
 
 <p align="center">
   <i>Full-stack developer, bot builder, and digital tinkerer.</i><br>
-  <a href="https://r8it.info">🌐 R8IT Project</a> • <a href="https://discord.gg/FZ6pdWDF7t">💬 Support Server</a>
+  <a href="[https://r8it.info](https://taqym.com/)">🌐 Tqym Project</a> 
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧠 I build modern, scalable bots and open-source tools for Discord.
-- 👨‍⚕️ 21 y/o nurse from Algeria — coding between shifts.
+- 🧠 I build modern, scalable websites and open-source tools for Discord.
+- 👨‍⚕️ 24 y/o nurse from Algeria — coding between shifts.
 - 💡 Always exploring new tech — currently diving into **Lua**.
 - 🔧 Creator of **R8IT**, a smart and lightweight giveaway bot designed to run fully as your server.
 
 ---
 
-### Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-3/357504040684486667.png)
+### 🤖 What is Taqym?
 
----
-
-### 🤖 What is R8IT?
-
-R8IT is a next-gen giveaway system tailored for modern Discord servers.  
-It’s **fast**, **lightweight**, and **runs as if it’s part of your server**, with your **server name and avatar**.
-
-✅ Clean slash commands  
-✅ Fully customizable giveaways  
-✅ Invite & role bonuses  
-✅ Banner support  
-✅ No admin permissions needed  
-✅ Advanced drop mode  
-✅ Logging system
-
-🔗 Try it now: [**r8it.info**](https://www.r8it.info/)
+**Taqym is an Arabic-first review platform for Algerian online stores and selling pages: shoppers write reviews, businesses claim and manage their profiles**
+🔗 Try it now: [**taqym.com**](https://taqym.com/)
 
 ---
 
